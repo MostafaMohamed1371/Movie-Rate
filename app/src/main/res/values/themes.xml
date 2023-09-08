@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Movies2App" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="exampleToast">
+        <item name="stTextBold">true</item>
+        <item name="stTextColor">@color/black</item>
+        <item name="stTextSize">10sp</item>
+        <item name="stColorBackground">@color/ColorGraniteGray</item>
+        <item name="stStrokeWidth">3sp</item>
+        <item name="stStrokeColor">@color/black</item>
+        <item name="stLength">SHORT</item>
+    </style>
+</resources>
